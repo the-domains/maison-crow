@@ -1,14 +1,14 @@
-layout_spectrum: 0.5518584726378322
-typography_spectrum: 0.05912095517851412
+layout_spectrum: 0.4982224931009114
+typography_spectrum: 0.05869856965728104
 color:
-  brandStrength: 0.9510840703733265
-  lightness: 0.9944645317737013
-  saturation: 0.39455557661131024
-  rhythmicContrast: 0.9471534970216453
+  brandStrength: 0.23308400274254382
+  lightness: 0.4125494286417961
+  saturation: 0.09940115548670292
+  rhythmicContrast: 0.21890497906133533
   brandColors:
-    - '#1C1D21'
-    - '#31353D'
-    - '#445878'
-    - '#92CDCF'
-    - '#EEEFF7'
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
 name: Maison Crow
